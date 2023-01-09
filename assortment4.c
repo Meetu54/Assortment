@@ -26,7 +26,7 @@ main(){
 			
 			if(r==c){
 				sum+=a[r][c];
-				printf("%d",sum);
+				
 			}
 			else{
 				
